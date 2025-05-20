@@ -1,4 +1,4 @@
-# 📈 OptionInsight: Monte Carlo vs Black-Scholes Option Pricer
+# 📈 Monte-Scholes: Monte Carlo vs Black-Scholes Option Pricer
 
 An interactive Streamlit web app to simulate and compare two foundational option pricing models:
 - **Black-Scholes Formula**
